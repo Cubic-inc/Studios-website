@@ -1,6 +1,6 @@
 
 # Terms and Conditions of Use
-of SCP: Fallen Facility
+## of SCP: Fallen Facility
 1. Terms
 By accessing this game, accessible from our publishers, you are agreeing to be bound by these game Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site or game. The materials contained in this game are protected by copyright and trade mark law.
 
